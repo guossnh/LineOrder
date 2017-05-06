@@ -1,6 +1,13 @@
+<?php include "config.php" ?>
 <div class="fahuo">
     <div class="jl_list">
-        <script src="js/pinglun.js"></script>
+        <?php 
+            if($pinglun){
+                ?><script src="js/fahuopinglun.js"></script><?php
+            }else{
+                ?><script src="js/fahuo.js"></script><?php
+            }
+        ?>
         <script>
             var qspeed = 60
             qdemo2.innerHTML = qdemo1.innerHTML //克隆demo1为demo2  

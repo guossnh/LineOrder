@@ -1,8 +1,11 @@
 <?php
 //这是配置文件
 $tel = "18303793851";//电话号码
-$phone = "18303793851"
-$wx = "";//个人微信号
-$jinshuju = "";//这是金数据的ID
-$gwx = ""//这是公众微信号
+$phone = "18303793851";
+$wx = "guossnh";//个人微信号
+$jinshuju = "https://jinshuju.net/f/icXzkV/embedded.js?banner=show&background=white&height=1316";//这是金数据的ID
+$gwx = "bglr";//这是公众微信号
+$banquan = "我是版权";//这是页面底部版权信息
+$pinglun = FALSE;//是否显示评论
+$fahuo = TRUE;//是否显示发货
 ?>

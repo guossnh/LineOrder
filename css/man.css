@@ -1,0 +1,82 @@
+body{
+    background-color: #fff;
+}
+.weui-tabbar{
+    height: 47px;
+    position: fixed;
+}
+.wei-xin-num{
+    color: red;
+    font-size: 20px;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -o-user-select:text;
+    user-select: text;
+}
+.page__title{
+    text-align: center;
+}
+.zhedangjiachang{
+    height: 60px;
+}
+.footer_text{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select:none;
+    user-select: none;
+}
+.dis_img{
+    display: none;
+    width: 300px;
+    height: 300px;
+}
+.open_wx{
+    height: 60px;
+    width: 60px;
+    position: fixed;
+    right: 5px;
+}
+.weui-article{
+    padding: 0px;
+}
+h1{
+    text-align: center;
+}
+p{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select:none;
+    user-select: none;
+}
+.qianming{
+    float: right;   
+}
+img{
+    width: 100%;
+}
+.footerbutton{
+    color: red;
+    width: 49%;
+    height: auto;
+}
+.weui-navbar__item{
+    height: 100%;
+    padding: 0 0;
+}
+.buyPageImgBar{
+    width: 100%;
+    height: auto;
+}
+.countdown{
+    color: #9A7C48;
+}
+.countdown span{
+    color: #D0740A;
+    font-size: 28px;
+}
+.buydiv{
+    background-color: #44361C;
+}
+.buydiv span{
+    color: #9A7C48;
+}
