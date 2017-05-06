@@ -65,18 +65,38 @@ img{
 }
 .buyPageImgBar{
     width: 100%;
-    height: auto;
 }
-.countdown{
+.countdowntext2{
     color: #9A7C48;
 }
-.countdown span{
+.countdowntext{
     color: #D0740A;
     font-size: 28px;
 }
 .buydiv{
     background-color: #44361C;
+    border-radius:10px;
 }
-.buydiv span{
+.aleadyBuy{
     color: #9A7C48;
+    font-size: 20px;
+}
+.aleadyBuyNumber{
+    color: #D0740A;
+    font-size: 25px;
+}
+.miaoshaMoney{
+    color: yellow;
+    font-size: 35px;
+}
+.miaoshaMoneyOther{
+    color: #9A7C48;
+    font-size: 20px;
+}
+.placeholder{
+    text-align: center;
+}
+.weui-loadmore_line{
+    margin-top: 0;
+    margin-bottom: 0px;
 }

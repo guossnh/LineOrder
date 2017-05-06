@@ -1,9 +1,9 @@
 <div class  = "countdown">
-    距离秒杀结束:
-    <span id='daya'></span>天
-    <span id='hoursa'></span>小时
-    <span id='minua'></span>分
-    <span id='secoa'></span>秒
+    <span class = "countdowntext2">秒杀倒计时:</span>
+    <span class = "countdowntext" id='daya'></span><span class = "countdowntext2">天</span>
+    <span class = "countdowntext" id='hoursa'></span><span class = "countdowntext2">时</span>
+    <span class = "countdowntext" id='minua'></span><span class = "countdowntext2">分</span>
+    <span class = "countdowntext" id='secoa'></span><span class = "countdowntext2">秒</span>
 </div>
 <script type="text/javascript">
 /**
@@ -11,7 +11,7 @@
 *   js实现动态倒计时功能
 *   a是从后台接收到的时间戳，需转换成毫秒单位
 */
-    var a=82345678;         //以毫秒为单位
+    var a= <?php echo $vo["overTime"] ?>;         //以毫秒为单位
     function fomtime()
     {
         a=a-1000;
