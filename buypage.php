@@ -51,7 +51,7 @@ if(array_key_exists($_GET['id'],$productJson)){
         for($x=1;$x<=$vo["bodyImgCount"];$x++){
             ?><img src = "img/<?php echo $vo["bodyImgFloder"] ?>/<?php echo $x ?>.jpg" ><?php
         }
-    ?>
+    ?>  
     <!--这里是订单-->
     <div id= "biaodan">
         <script src="<?php echo $jinshuju ?>"></script>
