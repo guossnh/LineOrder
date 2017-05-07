@@ -31,7 +31,7 @@ if(array_key_exists($_GET['id'],$productJson)){
             <div class="weui-flex__item"><div class="placeholder"><span class = "miaoshaMoneyOther">原价:</span><span class = "miaoshaMoneyOther"><s>￥<?php echo $vo["oldPrice"]?></s></span></div></div>
         </div>
         <div class="weui-flex">
-            <div class="weui-flex__item"><div class="placeholder" style = "position:relative;top: 20%;"><span class = "aleadyBuyNumber"><?php echo $vo["buyManNumber"]?>人</span></div></div>
+            <div class="weui-flex__item"><div class="placeholder"><span class = "aleadyBuyNumber"><?php echo $vo["buyManNumber"]?>人</span></div></div>
             <div class="weui-flex__item"><div class="placeholder"><span class = "miaoshaMoneyOther">现价:</span><span class = "miaoshaMoney"><b>￥<?php echo $vo["newPrice"]?></b></span></div></div>
         </div>
         <div class="weui-loadmore weui-loadmore_line"></div>
@@ -47,9 +47,11 @@ if(array_key_exists($_GET['id'],$productJson)){
     </div>
     <a href = "#biaodan" class = "weui-btn weui-btn_warn">立即购买</a>
 
-    <?php  ?>
-    <!--这是内容部分-->
-    <div style = "height:500px;"></div>
+    <?php
+        for($x=1;$x<=$vo["bodyImgCount"];$x++){
+            ?><img src = "img/<?php echo $vo["bodyImgFloder"] ?>/<?php echo $x ?>.jpg" ><?php
+        }
+    ?>
     <!--这里是订单-->
     <div id= "biaodan">
         <script src="<?php echo $jinshuju ?>"></script>
@@ -67,6 +69,7 @@ if(array_key_exists($_GET['id'],$productJson)){
     <!--这里是页面底部固定栏-->
     <div class="weui-tabbar">
         <div class="weui-navbar">
+           <div class="weui-navbar__item"><a href="index.php" class="weui-btn weui-btn_warn">返回首页</a></div>
            <div class="weui-navbar__item"><a href="#biaodan" class="weui-btn weui-btn_warn">在线下单</a></div>
            <div class="weui-navbar__item"><a href="tel:<?php echo $phone?>" class="weui-btn weui-btn_warn">拨打电话</a></div>
         </div>
