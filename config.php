@@ -5,7 +5,7 @@ $phone = "18303793851";
 $wx = "guossnh";//个人微信号
 $jinshuju = "https://jinshuju.net/f/8fM7jg/embedded.js?banner=show&background=white&height=997";//这是金数据的ID
 $gwx = "bglr";//这是公众微信号
-$banquan = "我是版权";//这是页面底部版权信息
+$banquan = "版权所有";//这是页面底部版权信息
 $pinglun = FALSE;//是否显示评论
 $fahuo = TRUE;//是否显示发货
 $vo = "";

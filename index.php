@@ -23,11 +23,20 @@
     <img src = "img/manbody/6.jpg" />
     <img src = "img/manbody/7.jpg" />
     <img src = "img/manbody/8.jpg" />
+    <?php include "weixin.php" ?>
+    <br>
+    <a href = "buypage.php?id=zhubaowomen"><img src = "img/manbody/4.jpg" /></a>
+    <a href = "buypage.php?id=zhubaowomen"><img src = "img/manbody/buy.gif" /></a>
+    <a href = "buypage.php?id=zhubaoman"><img src = "img/manbody/5.jpg" /></a>
+    <a href = "buypage.php?id=zhubaoman"><img src = "img/manbody/buy.gif" /></a>
+    <!--这里因为下部遮挡故意添加空白-->
+    <div class="zhedangjiachang"></div>
     <!--这里是页面底部固定栏-->
     <div class="weui-tabbar">
         <div class="weui-navbar">
            <div class="weui-navbar__item"><a href="index.php" class="weui-btn weui-btn_warn">返回首页</a></div>
         </div>
     </div>
+    <?php include "tongji.php"; ?>
 </body>
 </html>

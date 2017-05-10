@@ -19,6 +19,23 @@ if(array_key_exists($_GET['id'],$productJson)){
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/weui/1.1.1/style/weui.min.css"/>
     <!--这是页面自己写的样式文件-->
     <link rel="stylesheet" type="text/css" href="css/man.css" />
+    <!--这是今日头条转化代码-->
+        <script type="text/javascript">
+        (function(root) {
+            root._tt_config = true;
+            var ta = document.createElement('script'); ta.type = 'text/javascript'; ta.async = true;
+            ta.src = document.location.protocol + '//' + 's3.pstatp.com/bytecom/resource/track_log/src/toutiao-track-log.js';
+            ta.onerror = function () {
+                var request = new XMLHttpRequest();
+                var web_url = window.encodeURIComponent(window.location.href);
+                var js_url  = ta.src;
+                var url = '//ad.toutiao.com/link_monitor/cdn_failed?web_url=' + web_url + '&js_url=' + js_url + '&convert_id=59941540097';
+                request.open('GET', url, true);
+                request.send(null);
+            }
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ta, s);
+        })(window);
+    </script>
 </header>
 <body>
     <div class = "buyPageImgBar">
@@ -74,5 +91,6 @@ if(array_key_exists($_GET['id'],$productJson)){
            <div class="weui-navbar__item"><a href="tel:<?php echo $phone?>" class="weui-btn weui-btn_warn">拨打电话</a></div>
         </div>
     </div>
+    <?php include "tongji.php" ?>
 </body>
 </html>
