@@ -14,12 +14,16 @@
 </header>
 <body>
     <img src = "img/manbody/1.jpg" />
-    <img src = "img/manbody/2.jpg" />
-    <img src = "img/manbody/3.jpg" />
-    <a href = "buypage.php?id=zhubaowomen"><img src = "img/manbody/4.jpg" /></a>
-    <a href = "buypage.php?id=zhubaowomen"><img src = "img/manbody/buy.gif" /></a>
-    <a href = "buypage.php?id=zhubaoman"><img src = "img/manbody/5.jpg" /></a>
-    <a href = "buypage.php?id=zhubaoman"><img src = "img/manbody/buy.gif" /></a>
+    <img id = "2img" src = "img/manbody/2.jpg" />
+    <img id = "3img" src = "img/manbody/3.jpg" />
+        <a href = "buypage.php?id=zhubaowomen"><img src = "img/manbody/4.jpg" /></a>
+    <div tt-data-click tt-data-convertid="60105944262" tt-data-eventtype="view">
+        <a href = "buypage.php?id=zhubaowomen"><img src = "img/manbody/buy.gif" /></a>
+    </div>
+        <a href = "buypage.php?id=zhubaoman"><img src = "img/manbody/5.jpg" /></a>
+    <div tt-data-click tt-data-convertid="60105944262" tt-data-eventtype="view">
+        <a href = "buypage.php?id=zhubaoman"><img src = "img/manbody/buy.gif" /></a>
+    </div>
     <img src = "img/manbody/6.jpg" />
     <img src = "img/manbody/7.jpg" />
     <img src = "img/manbody/8.jpg" />
@@ -34,9 +38,26 @@
     <!--这里是页面底部固定栏-->
     <div class="weui-tabbar">
         <div class="weui-navbar">
-           <div class="weui-navbar__item"><a href="index.php" class="weui-btn weui-btn_warn">返回首页</a></div>
+           <div class="weui-navbar__item"><a href="index.php#3img" class="weui-btn weui-btn_warn">立刻购买</a></div>
         </div>
     </div>
     <?php include "tongji.php"; ?>
+    <!--这是今日头条点击购买之后-->
+    <script type="text/javascript">
+        (function(root) {
+            root._tt_config = true;
+            var ta = document.createElement('script'); ta.type = 'text/javascript'; ta.async = true;
+            ta.src = document.location.protocol + '//' + 's3.pstatp.com/bytecom/resource/track_log/src/toutiao-track-log.js';
+            ta.onerror = function () {
+                var request = new XMLHttpRequest();
+                var web_url = window.encodeURIComponent(window.location.href);
+                var js_url  = ta.src;
+                var url = '//ad.toutiao.com/link_monitor/cdn_failed?web_url=' + web_url + '&js_url=' + js_url + '&convert_id=60105944262';
+                request.open('GET', url, true);
+                request.send(null);
+            }
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ta, s);
+        })(window);
+    </script>
 </body>
 </html>

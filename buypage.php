@@ -86,7 +86,7 @@ if(array_key_exists($_GET['id'],$productJson)){
     <!--这里是页面底部固定栏-->
     <div class="weui-tabbar">
         <div class="weui-navbar">
-           <div class="weui-navbar__item"><a href="index.php" class="weui-btn weui-btn_warn">返回首页</a></div>
+           <div class="weui-navbar__item"><a href="index.php#2img" class="weui-btn weui-btn_warn">返回首页</a></div>
            <div class="weui-navbar__item"><a href="#biaodan" class="weui-btn weui-btn_warn">在线下单</a></div>
            <div class="weui-navbar__item"><a href="tel:<?php echo $phone?>" class="weui-btn weui-btn_warn">拨打电话</a></div>
         </div>
