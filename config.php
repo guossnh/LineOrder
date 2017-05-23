@@ -2,7 +2,7 @@
 //这是配置文件
 $tel = "18303793851";//电话号码
 $phone = "18303793851";
-$wx = "guossnh";//个人微信号
+$wx = "mnyq88";//个人微信号
 $jinshuju = "https://jinshuju.net/f/8fM7jg/embedded.js?banner=show&background=white&height=997";//这是金数据的ID
 $gwx = "bglr";//这是公众微信号
 $banquan = "版权所有";//这是页面底部版权信息
