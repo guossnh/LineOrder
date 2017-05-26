@@ -17,7 +17,7 @@
                     <span style="font-size: 28px;">您可能已经得了</span>
                 </p>
                 <p style="font-size: 20px; color: rgb(255, 255, 255); line-height: 3em;">
-                    <span style="font-size: 72px;">颈椎病!!!</span>
+                    <span style="font-size: 60px;">颈椎病!!!</span>
                 </p>
                 <br>
             </section>

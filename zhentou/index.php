@@ -1,5 +1,5 @@
-<!--这是销售的主页面,一个页面内完成 增加页面的打开速度-->
 <html>
+<!--这是销售的主页面,一个页面内完成 增加页面的打开速度-->
 <header>
     <!--设置页面适应手机访问-->
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -15,12 +15,16 @@
 </header>
 <body style = "background-color: #fff;">
     <!--这是内容部分-->
+
     <?php include "zhuangkuang.php" ?>
     <?php include "zhiliaofangfa.php" ?>
-
-
+    <?php include "zhentouif.php" ?>
+    <?php include "haozhentou.php" ?>
+    <?php include "product.php" ?>
+    <?php include "yuanlijingzhuibing.php" ?>
     <?php include "form.php" ?>
-    
+    <?php include "weixin.php" ?>
+
 
 
     <!--这是两张假的图片哈哈哈-->
