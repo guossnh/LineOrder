@@ -4,7 +4,7 @@
         <section style="padding: 2px 0px; text-align: center; color: rgb(255, 255, 255); background-color: rgb(96, 112, 239);">
             <section style="border: 1px solid rgb(255,255,255);padding:0.5em 1.5em;">
                 <p style="font-size:25px;color: rgb(255,255,255);line-height: 20px;" class="135brush" data-brushtype="text">
-                    牵草堂颈椎保健枕产品信息
+                    牵草堂颈椎枕产品信息
                 </p>
             </section>
         </section>

@@ -41,5 +41,6 @@
     <div class="zhedangjiachang"></div>
     <!--添加统计信息-->
     <?php include "tongji.php" ?>
+     <?php include "servrice/servrice.php" ?>
 </body>
 </html>

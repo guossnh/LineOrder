@@ -9,7 +9,7 @@
                     </section>
                     <section style="float:left; width:250px; height:100px; background-image:url(http://rdn.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1FBNEVHMldIUWdycTRQRTNMcWRzUVZ6WElVOGJGamduaWJWTkZVc2t4b3BYa2VSejZQc0NqdGU0ek1jVHhKWG56NHplR0JXOGdpYmljYUEvMD93eF9mbXQ9cG5n); background-repeat:no-repeat; background-size:100% auto; background-position:left bottom; margin-left:-0px;">
                         <section style="float:left; font-size:40px; color:#247ac1;">
-                            <span>&nbsp;药物治疗</span>
+                            <span>&nbsp;口服产品</span>
                         </section><span style="color: #953734; font-size: 14px;">副作用<strong>80%</strong></span>
                     </section>
                 </section>
@@ -43,7 +43,7 @@
                     </section>
                     <section style="float:left; width:250px; height:100px; background-image:url(http://rdn.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1FBNEVHMldIUWdycTRQRTNMcWRzUVZ6WElVOGJGamduaWJWTkZVc2t4b3BYa2VSejZQc0NqdGU0ek1jVHhKWG56NHplR0JXOGdpYmljYUEvMD93eF9mbXQ9cG5n); background-repeat:no-repeat; background-size:100% auto; background-position:left bottom; margin-left:-0px;">
                         <section style="float:left; font-size:40px; color:#247ac1;">
-                            <span>&nbsp;推拿治疗</span>
+                            <span>&nbsp;推拿按摩</span>
                         </section><span style="color: #953734; font-size: 15px;">副作用<strong>50%</strong></span>
                     </section>
                 </section>
@@ -77,13 +77,13 @@
                     </section>
                     <section style="float:left; width:250px; height:100px; background-image:url(http://rdn.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1FBNEVHMldIUWdycTRQRTNMcWRzUVZ6WElVOGJGamduaWJWTkZVc2t4b3BYa2VSejZQc0NqdGU0ek1jVHhKWG56NHplR0JXOGdpYmljYUEvMD93eF9mbXQ9cG5n); background-repeat:no-repeat; background-size:100% auto; background-position:left bottom; margin-left:-0px;">
                         <section style="float:left; font-size:40px; color:#247ac1;">
-                            <span>&nbsp;牵引治疗</span>
+                            <span>&nbsp;牵引理疗</span>
                         </section><span style="color: #953734; font-size: 15px;">副作用<strong>40%</strong></span>
                     </section>
                 </section>
                 <section style="width:100%; font-size:14px;" data-width="100%">
                     <p style="margin:0px;font-size: 16px;">
-                        牵引是为了松弛进账的肌肉,增加局部血循环打到减轻症状的目的,只能减轻不能根除
+                        牵引是为了松弛进账的肌肉,增加局部血循环打到减轻不适的目的,只能减轻不能根除
                     </p>
                 </section>
             </section>
@@ -111,13 +111,13 @@
                     </section>
                     <section style="float:left; width:250px; height:100px; background-image:url(http://rdn.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1FBNEVHMldIUWdycTRQRTNMcWRzUVZ6WElVOGJGamduaWJWTkZVc2t4b3BYa2VSejZQc0NqdGU0ek1jVHhKWG56NHplR0JXOGdpYmljYUEvMD93eF9mbXQ9cG5n); background-repeat:no-repeat; background-size:100% auto; background-position:left bottom; margin-left:-0px;">
                         <section style="float:left; font-size:40px; color:#247ac1;">
-                            <span>&nbsp;保健床品</span>
+                            <span>&nbsp;功能床品</span>
                         </section><span style="color: #953734; font-size: 15px;">副作用<strong>0%</strong></span>
                     </section>
                 </section>
                 <section style="width:100%; font-size:14px;" data-width="100%">
                     <p style="margin:0px;font-size: 16px;">
-                        取材天然健康,在睡眠中能修复颈椎,节省时间和金钱给您便捷解决睡眠大难题.
+                        取材天然健康,在睡眠中能缓解颈椎不适,节省时间和金钱给您便捷解决睡眠大难题.
                     </p>
                 </section>
             </section>
@@ -145,13 +145,13 @@
                     </section>
                     <section style="float:left; width:250px; height:100px; background-image:url(http://rdn.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvZmdua3hmR25ua1FBNEVHMldIUWdycTRQRTNMcWRzUVZ6WElVOGJGamduaWJWTkZVc2t4b3BYa2VSejZQc0NqdGU0ek1jVHhKWG56NHplR0JXOGdpYmljYUEvMD93eF9mbXQ9cG5n); background-repeat:no-repeat; background-size:100% auto; background-position:left bottom; margin-left:-0px;">
                         <section style="float:left; font-size:40px; color:#247ac1;">
-                            <span>&nbsp;运动治疗</span>
+                            <span>&nbsp;运动健身</span>
                         </section><span style="color: #953734; font-size: 15px;">副作用<strong>30%</strong></span>
                     </section>
                 </section>
                 <section style="width:100%; font-size:14px;" data-width="100%">
                     <p style="margin:0px;font-size: 16px;">
-                        通过运动颈椎病是有一定效果的,但是仅仅是依靠运动,但不能因为想要治疗该病.就盲目加大运动强度,这样反而会让病情加重.
+                        通过运动健身针对颈椎不适是有一定效果的,但不能仅仅依靠运动,因为想要缓解颈椎不适.就盲目的加大运动强度,这样反而会让不适加重.
                     </p>
                 </section>
             </section>

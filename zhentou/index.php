@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!--设置页面的编码方式-->
     <meta charset="UTF-8">
-    <title>牵草堂颈椎保健枕</title>
+    <title>牵草堂颈椎记忆枕</title>
     <!--这是评论区的样式文件-->
     <link href="../css/pinglun.css" type="text/css" rel="stylesheet">
     <!--这是页面前段框架使用微信的前端框架-->

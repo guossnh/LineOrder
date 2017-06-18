@@ -28,7 +28,7 @@
     <section style="width:80%;border-style: solid;-webkit-border-image: url(http://image2.135editor.com/cache/remote/aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvcDZWbHF2aWExVWljdzl6bThWaWF3OU9rZ21aN1JqeXY3UHhpYnJGcjYwaG9ZZURWMmtlSDFzdmZ5a2I3UHM4Z0lCa1pLTWliaWJYTW10QURnb2F4Zk4wTjlHcFEvMD93eF9mbXQ9cG5n) 20 70 20 70 fill;border-width:10px 35px 10px 35px;margin: 8px auto;" data-width="80%">
         <section style="margin-right: 10px; margin-left: 10px;">
             <p class="135brush" data-brushtype="text" style="font-size: 18px; font-weight: 800; text-align: center; color: rgb(60, 40, 34);">
-                颈椎病常用的治疗办法对比
+                颈椎问题常用的解决办法
             </p>
         </section>
     </section>
