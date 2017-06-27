@@ -37,4 +37,6 @@
     </script>
     <!--这是cnzz的统计代码-->
     <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1261989860'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1261989860' type='text/javascript'%3E%3C/script%3E"));</script>
+    <!--枕头特殊-->
+    <script src="https://s19.cnzz.com/z_stat.php?id=1262388054&web_id=1262388054" language="JavaScript"></script>
 </div>
