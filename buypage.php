@@ -7,7 +7,7 @@ if(array_key_exists($_GET['id'],$productJson)){
 }
 ?>
 <html>
-<header>
+<head>
     <!--设置页面适应手机访问-->
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!--设置页面的编码方式-->
@@ -36,7 +36,7 @@ if(array_key_exists($_GET['id'],$productJson)){
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ta, s);
         })(window);
     </script>
-</header>
+</head>
 <body>
     <div class = "buyPageImgBar">
         <img src = "img/headbar/<?php echo $vo["manImg"]?>"></img>

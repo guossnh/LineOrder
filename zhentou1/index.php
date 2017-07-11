@@ -2,6 +2,10 @@
 <!--这是销售的主页面,一个页面内完成 增加页面的打开速度-->
 <header>
     <!--设置页面适应手机访问-->
+    <script language="javascript" type="text/javascript"> 
+        // 以下方式直接跳转
+        window.location.href='http://zhubao.lezujk.com/ttwx/zhentou2/1.html';
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!--设置页面的编码方式-->
     <meta charset="UTF-8">
@@ -23,26 +27,26 @@
     <img src = "img/qnj_05.jpg" />
     <img src = "img/qnj_06.jpg" />
     -->
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_01.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_02.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_03.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_04.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_05.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_06.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_07.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_08.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_09.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_10.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_11.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_12.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_13.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_14.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_15.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_16.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_17.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_18.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_19.jpg" />
-    <img src = "http://os6rquv9p.bkt.clouddn.com/bg_20.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/1.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/2.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/3.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/4.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/5.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/6.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/7.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/8.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/9.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/10.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/11.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/12.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/13.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/14.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/15.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/16.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/17.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/18.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/19.jpg" />
+    <img src = "http://os6rquv9p.bkt.clouddn.com/20.jpg" />
     <?php include "form.php" ?>
     <?php include "weixin.php" ?>
     <!--这是两张假的图片哈哈哈-->
@@ -55,7 +59,7 @@
     <div class="weui-tabbar">
         <div class="weui-navbar">
            <div class="weui-navbar__item"><a href="#biaodan" class="weui-btn weui-btn_warn">立刻下单</a></div>
-           <div class="weui-navbar__item"><a href="tel:18303793851" class="weui-btn weui-btn_warn">电话咨询</a></div>
+           <div class="weui-navbar__item"><a href="tel:17703881057" class="weui-btn weui-btn_warn">电话咨询</a></div>
            <div class="weui-navbar__item"><a href="#weixin" class="weui-btn weui-btn_warn">添加微信</a></div>
         </div>
     </div>

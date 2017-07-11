@@ -2,7 +2,7 @@
     <section class="layout" style="margin: 10px auto; border-top: 2px solid rgb(117, 117, 118); padding-top: 3px;">
         <section style="border-top: 1px solid rgb(117, 117, 118);border-bottom: 1px solid rgb(117, 117, 118); padding: 5px 0;font-weight:bold;font-size:18px;">
             <p class="135brush" data-brushtype="text" style="text-align: center;">
-                <span style="font-size: 28px;">红玛瑙可以起到什么作用?</span>
+                <span style="font-size: 28px;">玛瑙可以起到什么作用?</span>
             </p>
         </section>
     </section>
